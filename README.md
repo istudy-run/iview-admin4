@@ -19,4 +19,4 @@
 3.  打包部署 npm run build
 
 #### 预览效果
-![输入图片说明](public/preview.png)
+![输入图片说明](preview.png)
